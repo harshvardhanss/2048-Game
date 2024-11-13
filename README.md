@@ -1,3 +1,5 @@
+Checout the game [here!](https://harshvardhanss.github.io/2048-Game/)
+
 # 2048 Game
 A simple, yet addictive game built with HTML, CSS, and JavaScript. Play the classic game with a sleek design and responsive controls. Perfect for a quick distraction or a fun challenge.
 
